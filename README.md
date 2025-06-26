@@ -7,11 +7,12 @@
 🎓 **Education:**  
 • B.Sc. in Computer Science – Calicut University  
 • Diploma in Full-Stack Web Development – G-Tech Education  
+
+
 📧 **Email:** sahalxcheruth@gmail.com  
 🌐 **Portfolio:** [sahalcheruth.pythonanywhere.com](https://sahalcheruth.pythonanywhere.com)  
 💼 **LinkedIn:** [linkedin.com/in/sahalcheruth](https://linkedin.com/in/sahalcheruth)  
 💻 **GitHub:** [github.com/sahalcheruth](https://github.com/sahalcheruth)
-
 ---
 
 ### 🛠️ Tech Stack
