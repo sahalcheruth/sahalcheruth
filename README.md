@@ -12,7 +12,6 @@
 📧 **Email:** sahalxcheruth@gmail.com  
 🌐 [**Portfolio**](https://sahalcheruth.pythonanywhere.com)  
 💼 [**LinkedIn**](https://linkedin.com/in/sahalcheruth)  
-💻 [**GitHub**](https://github.com/sahalcheruth)
 ---
 
 ### 🛠️ Tech Stack
