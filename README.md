@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sahal Cherutth</h1>
-<h3 align="center">Full-Stack Web Developer | Python & Django Enthusiast | AWS Practitioner</h3>
+<h3 align="center">Full-Stack Web Developer | Python & Django Enthusiast |</h3>
 
 ---
 
