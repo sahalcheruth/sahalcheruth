@@ -41,12 +41,6 @@
 
 ---
 
-### 🎯 Goals for 2025
-
-- Contribute to open-source Django projects  
-- Build a SaaS-based project with React + Django  
-- Gain AWS certification  
-- Collaborate on full-stack freelance projects
 
 ---
 
