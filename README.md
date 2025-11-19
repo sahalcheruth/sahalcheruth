@@ -10,7 +10,7 @@
 
 
 📧 **Email:** sahalxcheruth@gmail.com  
-🌐 [**Portfolio**](https://sahalcheruth.pythonanywhere.com)  
+🌐 [**Portfolio**](https://sahalcherutth.pythonanywhere.com)  
 💼 [**LinkedIn**](https://linkedin.com/in/sahalcheruth)  
 ---
 
