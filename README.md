@@ -9,7 +9,7 @@
 • Diploma in Full-Stack Web Development – G-Tech Education  
 
 
-📧 **Email:** sahalxcheruth@gmail.com  
+📧 **Email:** sahalmuhammed.dev@gmail.com  
 🌐 [**Portfolio**](https://sahalcherutth.pythonanywhere.com)  
 💼 [**LinkedIn**](https://linkedin.com/in/sahalcheruth)  
 ---
