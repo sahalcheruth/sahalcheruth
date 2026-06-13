@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Sahal Cherutth</h1>
+<h1 align="center">Hey there! 👋 I'm Sahal </h1>
 <h3 align="center">Full-Stack Web Developer | Python & Django Enthusiast |</h3>
 
 ---
@@ -11,7 +11,7 @@
 
 📧 **Email:** sahalmuhammed.dev@gmail.com  
 🌐 [**Portfolio**](https://sahalcherutth.pythonanywhere.com)  
-💼 [**LinkedIn**](https://linkedin.com/in/sahalcheruth)  
+💼 [**LinkedIn**](https://linkedin.com/in/sahalc)  
 ---
 
 ### 🛠️ Tech Stack
